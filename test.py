@@ -1,2 +1,3 @@
-print("Helloddd")
+print("Hello")
 print("HDDD")
+print("Noo")
